@@ -54,9 +54,8 @@ curl -XPUT "http://localhost:9200/_template/bilbaobizi" -H 'Content-Type: applic
 
 Ahora vamos a importar los objetos (busquedas,visualizaciones,dash, etc..) en kibana, para ello:
 
-Management > Kibana > Index Patterns, añade el patron bilbaobizi-* y el campo de tiempo @timestamp .
-
-Management > Kibana > Saved Objects, importa kibana.ndjson .
+- Management > Kibana > Index Patterns, añade el patron bilbaobizi-* y el campo de tiempo @timestamp .
+- Management > Kibana > Saved Objects, importa kibana.ndjson .
 
 Te pedira sobreescribir el patron y alguna cosa más, dale a que **si**.
 
