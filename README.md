@@ -10,7 +10,7 @@ En nuestro caso atacaremos a la [APIRest](https://gbfs.nextbike.net/maps/gbfs/v1
 - Elasticsearch > v6.0
 - Logstash > v6.0
 - Kibana > v6.0
-- Licencia "Basic" en elastic si quieres hacer zoom en el mapa de más de x10
+- Licencia "Basic" en elastic si quieres hacer zoom en el mapa de más de x10 (es gratis)
 
 ### Running ###
 
