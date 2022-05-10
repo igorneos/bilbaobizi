@@ -1,5 +1,9 @@
 # BilbaoBizi, el servicio municipal de préstamo de bicicletas de Bilbao.
 
+### TODO ###
+
+Aplicar ML para la prevision de bicis disponibles y detectar cual seria la estacion mas cercana con mas posibilidades de que haya bicis.
+
 ### Introduction ###
 
 En este proyecto haremos uso de la API del proveedor del servicio sacada de "North American Bike Share Association" [NABSA](https://github.com/NABSA/gbfs).
