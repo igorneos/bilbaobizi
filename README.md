@@ -48,4 +48,4 @@ Te pedira sobreescribir el patron y alguna cosa más, dale a que **si**.
 ### Let´s go! ###
 Asi es como deberia de quedarte, ahora ya sabes a que hora tienes bicis al lado de tu casa :)
 
-![imagen_resultado](https://github.com/igorneos/bilbaobizi/blob/master/example.gif)
+![imagen_resultado](https://github.com/igorneos/bilbaobizi/blob/master/example_new.gif)
