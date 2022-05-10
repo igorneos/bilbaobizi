@@ -19,26 +19,10 @@ En nuestro caso atacaremos a la [APIRest](https://gbfs.nextbike.net/maps/gbfs/v1
 
 *Via devtools...*
 
-PUT _template/bilbaobizi
-  {
-    "order" : 0,
-    "index_patterns" : [
-      "bilbaobizi*"
-    ],
-    "settings" : {
-      "index" : {
-        "number_of_shards" : "1"
-      }
-    },
-    "mappings" : {
-      "properties" : {
-        "location" : {
-          "type" : "geo_point"
-        }
-      }
-    },
-    "aliases" : { }
-  }
+PUT _template/bilbaobizi 
+{ 
+"order" : 0, "index_patterns" : [ "bilbaobizi*" ], "settings" : { "index" : { "number_of_shards" : "1" } }, "mappings" : { "properties" : { "location" : { "type" : "geo_point" } } }, "aliases" : { } 
+}
 
 OR
 
